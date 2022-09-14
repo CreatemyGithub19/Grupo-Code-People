@@ -3,3 +3,7 @@
 Mi primer repositorio
 
 I love :dog:,:pizza:,:book:
+
+i love :moon:, :star:
+
+
