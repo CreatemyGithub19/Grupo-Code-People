@@ -1,9 +1,1 @@
-# Hola Mundo
-
-Mi primer repositorio
-
-I love :dog:,:pizza:,:book:
-
-i love :moon:, :star:
-
-
+mi tercer repositorio en Github
