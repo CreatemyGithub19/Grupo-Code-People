@@ -1,1 +1,2 @@
-mi tercer repositorio en Github
+#Equipo Code People
+Hay equipo
