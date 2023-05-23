@@ -12,7 +12,7 @@ y algunas cosillas bonitas y entretenidas
 
 ![Java](https://www.canalgif.net/Gifs-animados/Informatica/Java/Imagen-animada-Java-04.gif)
 
-![Js](https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif)
+![Js](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 ![Python](https://media.tenor.com/_7r8RXryt3QAAAAC/python-powered.gif)
 
