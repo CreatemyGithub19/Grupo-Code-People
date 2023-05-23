@@ -1,7 +1,6 @@
 #Logo del Equipo Code People
 y algunas cosillas bonitas y entretenidas 
 
-![logoCodePeople](C:\Users\Beatriz\Escritorio\sodapdf-converted.gif)
 
 
 ![imagen](https://user-images.githubusercontent.com/22425467/150901973-25b48b07-0810-4b75-b3bb-baae3fa00541.gif)
