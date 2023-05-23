@@ -3,6 +3,7 @@ y algunas cosillas bonitas y entretenidas
 
 
 
+
 ![imagen](https://user-images.githubusercontent.com/22425467/150901973-25b48b07-0810-4b75-b3bb-baae3fa00541.gif)
 
 ![imagen](https://media.tenor.com/XmVOq-r1lnkAAAAj/unidos-y-en-equipo-ceg.gif)
