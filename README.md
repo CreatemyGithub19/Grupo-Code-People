@@ -9,7 +9,6 @@ y algunas cosillas bonitas y entretenidas
 
 ![amigosdelcodigo](https://media.tenor.com/jkOCtI7TwRIAAAAM/sworsy-code.gif)
 
-![mascodigos](https://media.tenor.com/4gTNCbjEQ0IAAAAd/open-codes-code.gif)
 
 ![Java](https://media.tenor.com/4HB9Nz7r4PsAAAAC/java-coffee.gif)
 
